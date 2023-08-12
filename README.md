@@ -2,6 +2,7 @@
 
 ![1](https://github.com/abdul-1432/Navigation-Bar/assets/124916666/5e023fec-0406-43ff-9395-680c42573e19)
 
+![2](https://github.com/abdul-1432/Navigation-Bar/assets/124916666/a47f85ea-9807-40db-9f19-1d4d1987bbd0)
 
 
 
