@@ -28,14 +28,14 @@ Follow these steps to integrate the Navigation Bar Component into your project:
 
 2. **Include Files**: In the `<head>` section of your HTML file, include the provided CSS and JavaScript files:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="navbar/css/navbar.css">
    <script src="navbar/js/navbar.js"></script>
    ```
 
 3. **HTML Structure**: Add the following HTML structure to your navigation bar:
 
-   ```html
+   ```HTML
    <nav class="navbar">
        <div class="navbar-brand">
            <!-- Your logo or site title -->
@@ -48,7 +48,7 @@ Follow these steps to integrate the Navigation Bar Component into your project:
 
 4. **Configure Navigation Items**: Replace the placeholder navigation items with your actual navigation links. You can also add dropdown menus:
 
-   ```html
+   ```HTML
    <ul class="navbar-nav">
        <li class="nav-item"><a href="#">Home</a></li>
        <li class="nav-item dropdown">
@@ -67,7 +67,7 @@ Follow these steps to integrate the Navigation Bar Component into your project:
 
 6. **Smooth Scrolling**: To enable smooth scrolling to anchor points within the same page, add the `data-scroll` attribute to your navigation links and set the `href` attribute to the corresponding anchor ID:
 
-   ```html
+   ```HTML
    <li class="nav-item"><a href="#section-1" data-scroll>Section 1</a></li>
    ```
 
