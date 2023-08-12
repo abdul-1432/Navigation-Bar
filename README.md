@@ -1,6 +1,10 @@
 # Navigation Bar Component
 
-![Navigation Bar](navbar-demo.png)
+![1](https://github.com/abdul-1432/Navigation-Bar/assets/124916666/5e023fec-0406-43ff-9395-680c42573e19)
+
+
+
+
 
 The Navigation Bar Component is a customizable and responsive navigation bar that can be easily integrated into web projects. It provides a user-friendly way to navigate between different sections or pages of a website. This component is built using HTML, CSS, and JavaScript, and it is designed to be flexible, easy to use, and visually appealing.
 
